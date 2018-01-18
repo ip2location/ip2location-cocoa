@@ -24,5 +24,11 @@ Download More Sample Databases
 ------------------------------
 Download the database at http://www.ip2location.com/developers/cocoa
 
+IPv4 BIN vs IPv6 BIN
+--------------------
+Use the IPv4 BIN file if you just need to query IPv4 addresses.
+
+Use the IPv6 BIN file if you need to query BOTH IPv4 and IPv6 addresses.
+
 
 For support, please email us at sales@ip2location.com or visit our website at http://www.ip2location.com
