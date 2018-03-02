@@ -4,7 +4,7 @@ IP2Location Cocoa 8.0.0
 This is IP2Location Cocoa library that enables the user to find the country, region (state), city, latitude, longitude, zip code, time zone, ISP, domain name, connection type, area code, weather, mobile network, elevation, and usage type by IP address or hostname originates from.  It contains a demo IP2Location IP-COUNTRY BIN database which consists of real data for IP address range 0.0.0.0 to 99.255.255.255.  This database contains IP address blocks as key and countries as values.  The paid version of IP2Location database covers all IP address range. IP2Location is complete, fast and accurate compares to using reverse DNS lookups. Developers can download other sample databases to evaluate other features such as region (state), city, latitude, longitude, zip code, time zone, ISP, domain name, connection type, area code, weather, mobile network, elevation, and usage type using the same Cocoa library.
 
 For more details, please visit:
-http://www.ip2location.com/developers/cocoa
+https://www.ip2location.com/developers/cocoa
 
 
 Installation (Mac OS X)
@@ -22,7 +22,7 @@ Installation (Mac OS X)
 
 Download More Sample Databases
 ------------------------------
-Download the database at http://www.ip2location.com/developers/cocoa
+Download the database at https://www.ip2location.com/developers/cocoa
 
 IPv4 BIN vs IPv6 BIN
 --------------------
@@ -31,4 +31,4 @@ Use the IPv4 BIN file if you just need to query IPv4 addresses.
 Use the IPv6 BIN file if you need to query BOTH IPv4 and IPv6 addresses.
 
 
-For support, please email us at sales@ip2location.com or visit our website at http://www.ip2location.com
+For support, please email us at sales@ip2location.com or visit our website at https://www.ip2location.com
